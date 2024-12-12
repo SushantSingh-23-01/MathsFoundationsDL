@@ -1,1 +1,1 @@
-Follows Introduction to Linear Algebra by Gilbert Strang and implements examples and visualisations in Python. Minimum amount of text is provided in notebbooks and reader is therefore advised to go through textbook for better undertanding.
+
