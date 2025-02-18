@@ -4,7 +4,7 @@ The jupyter notebooks follow chapters from the coure : [PennState: 501](https://
 
 `Note`: The author is not affiliated with The Pennsylvania State University.
 
-Librariers:
+Libraries:
 ```
 pip install numpy matplotlib pandas scipy
 ```
